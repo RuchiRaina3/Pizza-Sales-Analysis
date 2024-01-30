@@ -3,5 +3,11 @@ Namaste! A Pizza Store is  named ‘Pizza Kitchen’ in NY, USA. The store manag
 The pizzas sales data is from January, 2015 to December, 2015.
 
 ## **Assets**
-The manager has provided us with the pizza sales data and problem statement. These are contained in the folder Assets as Data.csv and Problem Statement.pdf respectively. <br>
- <a href='/Assets'> <strong> <em> View Assets </strong> </em> </a>
+The manager has provided us with the pizza sales data and problem statement. These are contained in the folder Assets as  <a href='/Assets/Data.csv'> <strong> Data.csv </strong> </a> and  <a href='/Assets/Problem Statement.pdf'> <strong> Problem Statement.pdf </strong> </a> respectively. <br>
+ <a href='/Assets'> <strong> View Assets </strong> </a>
+ ## **My Submissions**
+ This folder contains the following documents <br>
+ 1. <a href='/My Submissions/SQL QUERIES.pdf'> <strong> SQL QUERIES </strong> </a>: This contains all the SQL queries to find the KPIs and analyze the data.
+ 2. <a href='/My Submissions/REPORT.pdf'> <strong> REPORT </strong> </a>: This is the detailed analysis report for the pizza sales data. I have also identified two KPIs that were not specified in the problem statement provided by the manager, and these KPIs have been proven significantly important in framing the solutions to boost the sales and performance of 'Pizza Kitchen' store.
+ 3. <a href='/My Submissions/SOLUTIONS.pdf'> <strong> SOLUTIONS </strong> </a>: This document contains the solutions for boosting the sales and overall business performance of the pizza store ‘Pizza Kitchen’.
+ 
